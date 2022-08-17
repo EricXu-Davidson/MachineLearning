@@ -38,7 +38,7 @@ If you want the source image go to `/presentations` folder and select `svm_confu
 
 
 # FinalProject.pdf
-Found in the` /finalproject-ian-eric` folder.
+Found in the` /skin cancer from image` folder.
 
 This file contains the instructions of final project for CSC371 Machine Learning.
 
