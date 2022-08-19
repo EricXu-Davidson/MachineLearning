@@ -1,5 +1,5 @@
 # Skin Cancer Diagnosis from miRNA Data
-Author: Kostas Mateer and Eric Xu
+Author: Eric Xu & Kostas Mateer
 
 # data_exploration.py:
 Found in the `/data` folder.
