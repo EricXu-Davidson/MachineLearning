@@ -1,5 +1,5 @@
 # Final Project
-Author: Ian Hall and Eric Xu
+Author: Eric Xu and Ian Hall
 CSC 371 Machine Learning
 Davidson College
 
@@ -37,10 +37,10 @@ This file contains our write up pdf and png of confusion matrix of svm model.
 If you want the source image go to `/presentations` folder and select `svm_confusion.png` 
 
 
-# FinalProject.pdf
-Found in the` /finalproject-ian-eric` folder.
+# Skin-Cancer-Diagnosis-from-Image.pdf
+Found in the root folder.
 
-This file contains the instructions of final project for CSC371 Machine Learning.
+This file contains the project decription.
 
 # VMCS - Identifying Types of Skin Cancer from Image Data (2).pdf:
 Found in the `/presentations` folder.
