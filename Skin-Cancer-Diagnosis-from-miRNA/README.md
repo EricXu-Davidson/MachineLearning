@@ -1,7 +1,7 @@
 # Skin Cancer Diagnosis from miRNA Data
 Author: Eric Xu & Kostas Mateer
 
-#data source:
+# data source:
 Original data is not uploaded because its size is to big for GitHub. The link 
 to the data source is: https://portal.gdc.cancer.gov/
 
