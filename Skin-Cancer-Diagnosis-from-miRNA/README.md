@@ -1,4 +1,4 @@
-# PROJECT 3
+# Skin Cancer Diagnosis from miRNA Data
 Author: Kostas Mateer and Eric Xu
 
 # data_exploration.py:
